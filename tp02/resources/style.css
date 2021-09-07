@@ -1,0 +1,158 @@
+body {background-image: url("multimedial/coxinha-03-bgPage.png")}
+
+
+.logo{font-size: 50px  ;
+						font-family: 'Caveat', cursive  ;
+						font-weight: 200 ;
+						color: #ff00ae ;
+						background-color: #f7d3fb  ;
+					}
+
+.logo1{border: 0;
+			margin-top: 0px;
+			padding: 0px;
+			text-align: center;
+}
+
+
+header { background-image:  url("multimedial/coxinha01-bannerHeader.png");
+				background-color: #b9f792e0;
+				padding: 0;
+				margin: 0;
+				padding: 20px;
+				border-radius: 15px;}
+
+#thisMonth{font-family: 'Delius', cursive;
+						color: #000000;
+						text-align: center;}
+
+.countryMonth{background-color: #affbaf54;
+							font-family: 'Alfa Slab One', cursive;
+							font-size: 70px;
+							color: #1100ff;
+						     margin: 0;
+					          padding-bottom: 0px;
+							text-align: center;
+						}
+
+#thisPage{font-size: 50px ;
+					font-family: 'Sigmar One', cursive;
+					color: #038314;
+					padding: 0;
+					margin: 0;
+					text-align: center;}
+
+.seccionIntro{ width: 100%;
+						display: inline-block;
+						margin-top: 20px;
+						}
+
+.introText{ width: 45%;
+					display: inline-block;
+					float: left;
+					margin-left: 18px;
+					margin-top: 50%;
+					font-size: 20.5px;
+				     font-family: 'Hind Siliguri', sans-serif;
+					text-align: center;
+					vertical-align: center;
+					background-color: #c1f8fcff;
+					border-radius:15px;
+					margin-top: 30px;}
+
+.introImgblock{width: 40% ;
+							display: inline-block;
+							float: right;
+							align-content: center;
+						}
+
+.videoCoxinha{ margin-left: auto;
+						    margin-right: auto;
+						    display: block;}
+
+.seccionReceta{ width: 100%;
+						display: inline-block;
+						margin-top: 25px;	}
+
+.receta{font-size: 50px  ;
+			color: #038314ff ;
+			background-color: #c1f8fcff ;
+			font-family: 'Alfa Slab One', cursive;
+			text-align: center;
+			}
+
+.subReceta{background-color: #b9f791e0;
+					font-size: 45px  ;
+					color: #038314ff ;
+					font-family: 'Caveat', cursive  ;
+					text-align: center;
+					vertical-align: top;}
+
+.sr1{width: 100%;
+		display: inline-block;
+		height: 85% ;
+	}
+.tipoIng{background-color: #1100ffff;
+				width: 100%;
+				text-align: center;
+				color: #e0fcffff;
+				padding: 0.5%;
+				font-size: 20.5px;
+				font-family: 'Hind Siliguri', sans-serif;
+				text-align: center;}
+
+.tipoIng1{display: inline-block;
+				float: left;
+				width: 30%;
+				text-align: left;
+				margin-left: 10%;
+				background-color: #c1f8fcff;
+			}
+
+.tipoIng2{display: inline-block;
+				float: right ;
+				width: 30%;
+				text-align: left;
+				margin-right: 10%;
+				background-color: #c1f8fcff;
+				}
+
+.preparacion{width: 80%;
+						margin-right: 3%;
+						margin-left: 2%;
+						background-color: #fcfba691;
+						border-radius: 15px;
+					}
+
+li {font-family: 'Dosis', sans-serif;
+		font-size: 28px;
+		margin-left: 25px;
+		align-content: center}
+
+.Map {width:  99%;}
+
+.frameMap{border-radius: 15px ;
+					display: inline-block;
+					float: right;
+					margin-left: 0;
+					margin-left: 14px;
+					background-color: #fffa00ff;
+					}
+
+.mapDescription{display: inline-block;
+								width: 40%;
+								float: left;
+								background-color: #f6f5c2ff;
+								margin-left: 5%;
+								margin-top: 2%;
+									}
+.mapText{background-color: #fffa00ff;
+					font-family: 'Pacifico', cursive;
+					color: #000000ff;
+					font-weight: 100px ;
+					text-align: center;}
+
+.mapP{font-size: 25px;
+			font-family: 'Patrick Hand', cursive ;}
+
+
